@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="40" viewBox="0 0 30 40">
+    <defs>
+        <filter id="byk5wbpa7a" width="120%" height="115%" x="-10%" y="-7.5%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+        </filter>
+        <path id="rvaibd0c7b" d="M16.287 30v10l-2.413-2.414V30h2.413zM15 0c8.284 0 15 6.716 15 15 0 8.284-6.716 15-15 15-8.284 0-15-6.716-15-15C0 6.716 6.716 0 15 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-748 -421) translate(748 421)">
+                    <use fill="#000" filter="url(#byk5wbpa7a)" xlink:href="#rvaibd0c7b"/>
+                    <use fill="#FFF" xlink:href="#rvaibd0c7b"/>
+                </g>
+                <path fill="#909090" d="M13.874 30L13.874 37.586 16.287 40 16.287 30z" transform="translate(-748 -421) translate(748 421)"/>
+                <g fill="#4833FF">
+                    <path d="M14.5 14h4c.276 0 .5.224.5.5s-.224.5-.5.5h-4c-.276 0-.5-.224-.5-.5s.224-.5.5-.5zm0 2h4c.276 0 .5.224.5.5s-.224.5-.5.5h-4c-.276 0-.5-.224-.5-.5s.224-.5.5-.5zm4 2c.276 0 .5.224.5.5s-.224.5-.5.5h-4c-.276 0-.5-.224-.5-.5s.224-.5.5-.5h4zm2.018-7.985c.266 0 .482.193.482.43v8.125c0 .237-.216.43-.482.43h-.512v-5.979h-6.972V19h-.552c-.266 0-.482-.193-.482-.43v-8.125c0-.237.216-.43.482-.43zM9.009 14.003h.994v-2.01h-.994v2.01zm1.986-5.81L7.712 5.149c-.132-.104-.316-.129-.471-.06-.155.067-.255.212-.255.372l.008 2.732-3.27-3.044c-.13-.104-.315-.129-.47-.06C3.1 5.156 3 5.301 3 5.461v2.732c0 .024.01 3.202.015 3.225C3.01 11.44 3 8.306 3 8.33v10.26c0 .226.196.41.44.41h2.564v-3.02h2V19h2.556c.244 0 .44-.184.44-.41l-.005-10.397zm-6.988 5.808h.986v-2.005h-.986V14z" transform="translate(-748 -421) translate(748 421) translate(3 3)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
